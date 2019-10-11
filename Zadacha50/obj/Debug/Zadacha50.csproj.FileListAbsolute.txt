@@ -1,0 +1,7 @@
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha50\bin\Debug\Zadacha50.exe.config
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha50\bin\Debug\Zadacha50.exe
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha50\bin\Debug\Zadacha50.pdb
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha50\obj\Debug\Zadacha50.csprojResolveAssemblyReference.cache
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha50\obj\Debug\Zadacha50.csproj.CoreCompileInputs.cache
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha50\obj\Debug\Zadacha50.exe
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha50\obj\Debug\Zadacha50.pdb

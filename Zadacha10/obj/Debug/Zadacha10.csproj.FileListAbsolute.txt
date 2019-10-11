@@ -1,0 +1,6 @@
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha10\bin\Debug\Zadacha10.exe.config
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha10\bin\Debug\Zadacha10.exe
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha10\bin\Debug\Zadacha10.pdb
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha10\obj\Debug\Zadacha10.csproj.CoreCompileInputs.cache
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha10\obj\Debug\Zadacha10.exe
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha10\obj\Debug\Zadacha10.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha44\bin\Debug\Zadacha44.exe.config
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha44\bin\Debug\Zadacha44.exe
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha44\bin\Debug\Zadacha44.pdb
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha44\obj\Debug\Zadacha44.csproj.CoreCompileInputs.cache
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha44\obj\Debug\Zadacha44.exe
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha44\obj\Debug\Zadacha44.pdb
+C:\Users\Cveti\Source\Repos\ScaleFocus\Zadacha44\obj\Debug\Zadacha44.csprojResolveAssemblyReference.cache
